@@ -1,0 +1,5 @@
+# Real CLIP tagging. Install on top of requirements.txt:
+#   pip install -r requirements-ml.txt
+torch>=2.2
+open_clip_torch>=2.24
+faiss-cpu>=1.8
